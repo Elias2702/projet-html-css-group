@@ -23,6 +23,8 @@
 ### Mardi 23/10
 
 **Roger:**
+Initialisation du fichier index.html.
+Travail sur le header: ajout de l'image de fond, ajout du masque opaque, ajout du NAV.
 
 **Ahmed:**
 
