@@ -1,0 +1,45 @@
+main {
+  width: 80%;
+  margin-left:10%;
+  margin-right: 10%;
+}
+
+footer {
+  background-image: url(../images/swirl_pattern.png);
+  height: 200px;
+}
+footer h2 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.footerIcons {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.fa {
+  padding: 10px;
+  border-radius: 50%;
+  margin-left: 25px;
+
+}
+
+.fa-linkedin {
+  background-color: #0077B5;
+}
+
+.fa-twitter {
+  background-color: #1DA1F2;
+}
+
+.fa-instagram {
+  background-color: #6A453C;
+}
+
+.fa-facebook-f {
+  background-color: #3B5998;
+  padding-left: 13px;
+  padding-right: 13px;
+}
