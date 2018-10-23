@@ -3,3 +3,10 @@ body {
 	margin-left: 10%;
 	margin-right: 10%;
 }
+
+background: linear-gradient(
+ rgba(0, 0, 0, 0.45), 
+ rgba(0, 0, 0, 0.45)
+ ),url(http://codekillr.com/wp-content/uploads/2017/02/skiing-691236_960_720.jpg);
+ background-size:cover;
+ background-repeat:no-repeat;
