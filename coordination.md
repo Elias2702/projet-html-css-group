@@ -26,6 +26,7 @@
 
 **Ahmed:**
 
-**Dan:**
+**Dan:**  
+J'ai débuté le footer, j'ai placé l'image d'arrière plan, le titre ainsi que les icones pour les réseaux sociaux. Pour le footer il me reste à choisir la bonne police et à peaufiner le placement des éléments.
 
 **Elias:**
