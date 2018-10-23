@@ -27,6 +27,7 @@ Initialisation du fichier index.html.
 Travail sur le header: ajout de l'image de fond, ajout du masque opaque, ajout du NAV.
 
 **Ahmed:**
+J'ai bien débuté la section "Who we are".
 
 **Dan:**  
 J'ai débuté le footer, j'ai placé l'image d'arrière plan, le titre ainsi que les icones pour les réseaux sociaux. Pour le footer il me reste à choisir la bonne police et à peaufiner le placement des éléments.
