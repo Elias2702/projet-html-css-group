@@ -1,4 +1,4 @@
-#coordination
+# coordination
 
 
 ## Ici, on détaille la répartition des tâches.
