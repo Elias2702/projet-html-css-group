@@ -30,3 +30,5 @@
 J'ai débuté le footer, j'ai placé l'image d'arrière plan, le titre ainsi que les icones pour les réseaux sociaux. Pour le footer il me reste à choisir la bonne police et à peaufiner le placement des éléments.
 
 **Elias:**
+J'ai mis en place les outils collaboratifs (repo, fichiers readme et collaborations, importé les ressources depuis Hamilton -et leurs mises à jour régulières-, ryver) et aidé à ce que tout le monde puisse commencer proprement.
+J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le formulaire), j'ai trouvé des templates et lu de la documentation sur le sujet. J'ai copié un template simple HTML et CSS, que j'ai commencé à éditer.
