@@ -5,6 +5,7 @@ main {
 }
 
 footer {
+  padding-top: 25px;
   background-image: url(../images/swirl_pattern.png);
   height: 200px;
 }
