@@ -5,27 +5,28 @@ main {
 }
 
 footer {
-  padding-top: 25px;
+  padding: 25px 0;
   background-image: url(../images/swirl_pattern.png);
   height: 200px;
 }
-footer h2 {
+footer h1 {
   text-transform: uppercase;
   text-align: center;
+  font-size: 40px;
+  font-weight: 400;
   font-family: Comfortaa, serif;
 }
 
 .footerIcons {
   text-align: center;
+  text-align: center;
   color: white;
-  font-size: 25px;
+  font-size: 35px;
 }
 
 .fa {
   padding: 10px;
   border-radius: 50%;
-  margin-left: 25px;
-
 }
 
 .fa-linkedin {
@@ -34,14 +35,16 @@ footer h2 {
 
 .fa-twitter {
   background-color: #1DA1F2;
+  margin-left: 75px;
 }
 
 .fa-instagram {
   background-color: #6A453C;
+  margin-left: 75px;
 }
 
 .fa-facebook-f {
   background-color: #3B5998;
-  padding-left: 13px;
-  padding-right: 13px;
+  padding : 10px 15px 8px 15px;
+  margin-left: 75px;
 }
