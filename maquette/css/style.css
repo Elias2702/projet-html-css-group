@@ -7,24 +7,28 @@ body {
 /* Pour le formulaire proprement dit (div 'container' dont parent est: 'formulaire')*/
 
 input[type=text], select, textarea {
-    width: 100%;
+    width: 300px;
     padding: 12px;
     border: 1px solid rgba(155,0,0,1);
     border-radius: 25px;
     box-sizing: border-box;
     margin-top: 6px;
     margin-bottom: 16px;
-    resize: vertical
+    resize: vertical;
+}
+
+.form1 {
+		display: flex;
 }
 
 input[type=submit] {
 		text-transform: uppercase;
     color: rgba(155,0,0,1);
 		background-color: rgba(255,255,255,1);
-    padding: 12px 20px;
+    padding: 12px;
     border: 1px solid rgba(155,0,0,1);
     border-radius: 7px;
-    cursor: pointer;
+    width: 120px;
 }
 
 input[type=submit]:hover {
