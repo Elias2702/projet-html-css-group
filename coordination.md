@@ -58,6 +58,6 @@ J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le f
 
 **Dan:**  
 
-J'ai terminé le footer et j'ai commit le premier jet de la partie **"Our Team"**
+J'ai terminé le footer et j'ai commit le premier jet de la partie **"Our Team"**. Il me reste a peaufiner certains détails et les polices utilisées.
 
 **Elias:**
