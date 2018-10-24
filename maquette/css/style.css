@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Comfortaa regular';
+    font-family: 'Comfortaa-Regular';
     src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
-    font-family: 'Cinzel Regular';
+    font-family: 'Cinzel-Regular';
     src: url('fonts/Cinzel-Regular.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
@@ -42,5 +42,28 @@ header ul {
 	margin-right: 130px;
 }
 p {
-	font-family: 'Cinzel Regular';
+	font-family: 'Cinzel-Regular';
+}
+#events_top {
+	display: flex;
+	justify-content: space-around;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#events_bottom {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 50px;
+}
+
+#events_bottom div {
+	width: 220px;
+	border: 1px solid grey;
+	box-shadow: 0px 5px 0px grey;
+	text-align: center;
+}
+#eventTitle {
+	font-family: 'Comfortaa-Regular';
 }
