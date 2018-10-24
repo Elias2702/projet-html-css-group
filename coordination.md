@@ -42,6 +42,7 @@ Travail sur le header: ajout de l'image de fond, ajout du masque opaque, ajout d
 **Ahmed:**
 J'ai bien débuté la section "Who we are".
 
+
 **Dan:**  
 J'ai débuté le footer, j'ai placé l'image d'arrière plan, le titre ainsi que les icones pour les réseaux sociaux. Pour le footer il me reste à choisir la bonne police et à peaufiner le placement des éléments.
 
@@ -55,7 +56,7 @@ J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le f
 **Roger:**
 
 **Ahmed:**
-
+today i have managed with the help of coach Kevin and my colleagues to finish my part (Who we are...)
 **Dan:**  
 
 J'ai terminé le footer et j'ai commit le premier jet de la partie **"Our Team"**. Il me reste a peaufiner certains détails et les polices utilisées.
