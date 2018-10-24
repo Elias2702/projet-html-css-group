@@ -66,6 +66,8 @@ p {
 }
 #eventTitle {
 	font-family: 'Comfortaa';
+	font-size: 2.8em;
+	margin-bottom: 5px;
 }
 #fondRouge {
 	border: 1px solid #a20000;
@@ -83,4 +85,11 @@ div p:nth-child(3) {
 }
 div p:nth-child(4), div p:nth-child(5) {
 	font-family: verdana;
+}
+hr {
+	color: #a20000;
+	height: 5px;
+	width:220px;
+	background-color: #a20000;
+	border: 0px;
 }
