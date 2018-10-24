@@ -50,12 +50,14 @@ J'ai mis en place les outils collaboratifs (repo, fichiers readme et collaborati
 J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le formulaire), j'ai trouvé des templates et lu de la documentation sur le sujet. J'ai copié un template simple HTML et CSS, que j'ai commencé à éditer.
 
 
-### Day dd/mm
+### Day 24/10
 
 **Roger:**
 
 **Ahmed:**
 
 **Dan:**  
+
+J'ai terminé le footer et j'ai commit le premier jet de la partie **"Our Team"**
 
 **Elias:**
