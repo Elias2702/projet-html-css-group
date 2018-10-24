@@ -35,3 +35,8 @@ J'ai débuté le footer, j'ai placé l'image d'arrière plan, le titre ainsi que
 **Elias:**
 J'ai mis en place les outils collaboratifs (repo, fichiers readme et collaborations, importé les ressources depuis Hamilton -et leurs mises à jour régulières-, ryver) et aidé à ce que tout le monde puisse commencer proprement.
 J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le formulaire), j'ai trouvé des templates et lu de la documentation sur le sujet. J'ai copié un template simple HTML et CSS, que j'ai commencé à éditer.
+
+### Mercredi 24/10
+
+**Roger:**
+Finalisation du header (mais je dois essayer un autre type de placement du nav pour tester) - travail d'intégration des polices personnalisées par url's - Travail sur la section "Our Events" qui est presque terminée
