@@ -4,12 +4,40 @@ main {
   margin-right: 10%;
 }
 
+.ourTeam {
+  margin: auto;
+  width: 960px;
+}
+
+.topTeam, .bottomTeam {
+  width: 860px;
+  margin: auto;
+}
+
+.topTeam img, .teamText {
+  display : inline-block;
+}
+
+.teamText {
+  width: 300px;
+  color : gray;
+
+}
+
+.teamText h6 {
+  background-color: rgb(168, 0, 0);
+  width : 40px;
+  padding: 5px 20px 5px 10px;
+  color: white;
+  font-family: cinzel, serif;
+}
+
 footer {
   padding: 25px 0;
   background-image: url(../images/swirl_pattern.png);
   height: 200px;
 }
-footer h1 {
+footer h1, .ourTeam h1 {
   text-transform: uppercase;
   text-align: center;
   font-size: 40px;
