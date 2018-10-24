@@ -27,10 +27,13 @@
 Finalisation du header (mais je dois essayer un autre type de placement du nav pour tester) - travail d'intégration des polices personnalisées par url's - Travail sur la section "Our Events" qui est presque terminée
 
 **Ahmed:**
+Today I have managed with the help of coach Kevin and my colleagues to finish my part (Who we are...)
 
 **Dan:**  
+J'ai terminé le footer et j'ai commit le premier jet de la partie **"Our Team"**. Il me reste a peaufiner certains détails et les polices utilisées.
 
 **Elias:**
+J'ai commencé (et presque finalisé) le positionnement des éléments du formulaire. J'ai fait un suivi des efforts de chacun et de la coordination.
 
 
 ### Mardi 23/10
@@ -51,14 +54,12 @@ J'ai mis en place les outils collaboratifs (repo, fichiers readme et collaborati
 J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le formulaire), j'ai trouvé des templates et lu de la documentation sur le sujet. J'ai copié un template simple HTML et CSS, que j'ai commencé à éditer.
 
 
-### Day 24/10
+### Day --/--
 
 **Roger:**
 
 **Ahmed:**
-today i have managed with the help of coach Kevin and my colleagues to finish my part (Who we are...)
-**Dan:**  
 
-J'ai terminé le footer et j'ai commit le premier jet de la partie **"Our Team"**. Il me reste a peaufiner certains détails et les polices utilisées.
+**Dan:**  
 
 **Elias:**
