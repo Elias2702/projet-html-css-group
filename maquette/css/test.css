@@ -1,40 +1,26 @@
 @font-face {
-    font-family: 'Comfortaa regular';
+    font-family: 'Comfortaa Regular';
     src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
 }
 
-@font-face {
-    font-family: 'Cinzel Regular';
-    src: url('fonts/Cinzel-Regular.ttf') format('truetype'),
-    font-weight: normal;
-    font-style: normal;
-}
-
-/* ------------------------------- fin font-faces -------------------- */
-a {
-	text-decoration: none;
-	color: white;
-}
 header {
 	background: linear-gradient(rgba(0, 0, 0, 0.9),  rgba(0, 0, 0, 0.9)), url("../images/header_Background.jpg");
 	background-size: cover;
 	height: 485px;
-	background-repeat: no-repeat;
 }
 header img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	margin-top: 135px;
+	margin-top: 165px;
 }
 header ul li {
 	color: white;
 	list-style-type: none;
 	margin-left: 40px;
 	margin-top: 15px;
-	font-family: 'Comfortaa regular';
 }
 header ul {
 	display: flex;
@@ -42,5 +28,5 @@ header ul {
 	margin-right: 130px;
 }
 p {
-	font-family: 'Cinzel Regular';
+	font-family: 'Comfortaa regular';
 }
