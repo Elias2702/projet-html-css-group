@@ -178,3 +178,55 @@ footer h1, .ourTeam h1 {
 }
 
 /* Travail Dan Fin*/
+
+/* Début formulaire */
+
+input[type=text], select, textarea {
+    width: 300px;
+    padding: 12px;
+    border: 1px solid rgba(155,0,0,1);
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+#subject {
+		width: 600px;
+}
+
+#fname {
+	margin-right: 100px;
+}
+
+.form1 {
+		display: flex;
+}
+
+input[type=submit] {
+		text-transform: uppercase;
+    color: rgba(155,0,0,1);
+		background-color: rgba(255,255,255,1);
+		margin-left: 200px;
+    padding: 12px;
+    border: 1px solid rgba(155,0,0,1);
+    border-radius: 7px;
+    width: 120px;
+}
+
+input[type=submit]:hover {
+		color: rgba(255,255,255,1);
+    background-color: rgba(155,0,0,1);
+}
+
+.formulaire {
+		width: auto;
+		margin: auto;
+    padding: 20px;
+}
+
+.imgstar {
+	height: 0.5em;
+}
+/* Fin formulaire */
