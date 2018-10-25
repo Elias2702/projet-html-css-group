@@ -51,4 +51,7 @@ input[type=submit]:hover {
     padding: 20px;
 }
 
+.imgstar {
+	height: 0.5em;
+}
 /* Fin du formulaire proprement dit (div 'container' dont parent est: 'formulaire')*/
