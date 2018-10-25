@@ -1,5 +1,5 @@
 
-pxont-face {
+@font-face {
     font-family: 'Comfortaa';
     src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
     font-weight: normal;
@@ -22,10 +22,11 @@ a {
 main {
 	width: 960px;
 	margin: auto ;
+}
 
 body {
-  width: 100%;
-  margin: 0px;
+  width: 960;
+  margin: auto;
 }
 
 header {
@@ -34,12 +35,14 @@ header {
 	background-repeat: no-repeat;
 	margin-top: 0px;
 }
+
 header img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 135px;
 }
+
 header ul li {
 	color: white;
 	list-style-type: none;
@@ -47,12 +50,14 @@ header ul li {
 	margin-top: 15px;
 	font-family: 'Comfortaa';
 }
+
 header ul {
 	display: flex;
 	justify-content: flex-end;
 	margin-right: 130px;
 	margin-top: 0px;
 }
+
 p {
 	font-family: 'Comfortaa';
 }
@@ -68,8 +73,25 @@ p {
   font-weight: bold;
   left: -75px;
   top: 30px;
+}
 
+#alone {
+	display: inline-block;
+}
 
+#events_top {
+	display: flex;
+	justify-content: space-around;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+#events_bottom {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 50px;
 }
 
 #who-img{
@@ -97,37 +119,9 @@ p {
 }
 
 #who-title {
-
 	padding:50px;
-
 }
 
-#who-txt {
-
-
-}
-
-#div-title-txt {
-
- }
-
-/*-------------*/
-
-#container {
-
-}
-
-#alone{
-
-	display: inline-block;
-}
-
-#events_top {
-	display: flex;
-	justify-content: space-around;
-	margin-left: 50px;
-	margin-right: 50px;
-}
 #events_bottom {
 	display: flex;
 	justify-content: space-between;
@@ -142,11 +136,13 @@ p {
 	box-shadow: 0px 5px 4px grey;
 	text-align: center;
 }
+
 #eventTitle {
 	font-family: 'Comfortaa';
 	font-size: 2.8em;
 	margin-bottom: 5px;
 }
+
 #fondRouge {
 	border: 1px solid #a20000;
 	background-color: #a20000;
@@ -154,16 +150,20 @@ p {
 	margin-top: 0px;
 	padding: 5px;
 }
+
 div p:nth-child(2) {
 	color: blue;
 	font-weight: bold;
 }
+
 div p:nth-child(3) {
 	font-weight: bold;
 }
+
 div p:nth-child(4), div p:nth-child(5) {
 	font-family: verdana;
 }
+
 hr { /* --------------------------> pour le soulignement en rouge --*/
 	color: #a20000;
 	height: 5px;
@@ -177,6 +177,12 @@ hr { /* --------------------------> pour le soulignement en rouge --*/
 .ourTeam {
   margin: auto;
   width: 960px;
+}
+
+.ourTeam h1::after {
+	width : 80%;
+	background-color: rgb(168, 0, 0);
+	content: " ";
 }
 
 .topTeam, .bottomTeam {
@@ -206,7 +212,9 @@ footer {
   padding: 25px 0;
   background-image: url(../images/swirl_pattern.png);
   height: 200px;
+  width: 100%;
 }
+
 footer h1, .ourTeam h1 {
   text-transform: uppercase;
   text-align: center;
@@ -299,9 +307,9 @@ input[type=submit]:hover {
 }
 
 .formulaire {
-		width: 1000px;
+		width: 960px;
 		margin: auto;
-    padding: 20px;
+    	padding: 20px;
 }
 
 .imgstar {
