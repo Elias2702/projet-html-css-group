@@ -1,3 +1,4 @@
+
 @font-face {
     font-family: 'Comfortaa';
     src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
@@ -94,3 +95,86 @@ hr { /* --------------------------> pour le soulignement en rouge --*/
 	background-color: #a20000;
 	border: 0px;
 }
+
+/* Travail Dan début*/
+
+main {
+  width: 80%;
+  margin-left:10%;
+  margin-right: 10%;
+}
+
+.ourTeam {
+  margin: auto;
+  width: 960px;
+}
+
+.topTeam, .bottomTeam {
+  width: 860px;
+  margin: auto;
+}
+
+.topTeam img, .teamText {
+  display : inline-block;
+}
+
+.teamText {
+  width: 300px;
+  color : gray;
+
+}
+
+.teamText h6 {
+  background-color: rgb(168, 0, 0);
+  width : 40px;
+  padding: 5px 20px 5px 10px;
+  color: white;
+  font-family: cinzel, serif;
+}
+
+footer {
+  padding: 25px 0;
+  background-image: url(../images/swirl_pattern.png);
+  height: 200px;
+}
+footer h1, .ourTeam h1 {
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+  font-family: Comfortaa, serif;
+}
+
+.footerIcons {
+  text-align: center;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+}
+
+.fa {
+  padding: 10px;
+  border-radius: 50%;
+}
+
+.fa-linkedin {
+  background-color: #0077B5;
+}
+
+.fa-twitter {
+  background-color: #1DA1F2;
+  margin-left: 75px;
+}
+
+.fa-instagram {
+  background-color: #6A453C;
+  margin-left: 75px;
+}
+
+.fa-facebook-f {
+  background-color: #3B5998;
+  padding : 10px 15px 8px 15px;
+  margin-left: 75px;
+}
+
+/* Travail Dan Fin*/
