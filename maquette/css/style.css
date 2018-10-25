@@ -4,7 +4,7 @@ body {
 	margin-right: 10%;
 }
 
-/* Pour le formulaire proprement dit (div 'container' dont parent est: 'formulaire')*/
+/* Début formulaire */
 
 input[type=text], select, textarea {
     width: 300px;
@@ -45,7 +45,7 @@ input[type=submit]:hover {
     background-color: rgba(155,0,0,1);
 }
 
-.container {
+.formulaire {
 		width: auto;
 		margin: auto;
     padding: 20px;
@@ -54,4 +54,4 @@ input[type=submit]:hover {
 .imgstar {
 	height: 0.5em;
 }
-/* Fin du formulaire proprement dit (div 'container' dont parent est: 'formulaire')*/
+/* Fin formulaire */
