@@ -22,11 +22,14 @@ a {
 main {
 	width: 960px;
 	margin: auto ;
+
+body {
+  width: 100%;
+  margin: 0px;
 }
 
 header {
 	background: linear-gradient(rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8)), url("../images/header_Background.jpg");
-	background-size: cover;
 	height: 485px;
 	background-repeat: no-repeat;
 	margin-top: 0px;
@@ -171,7 +174,6 @@ hr { /* --------------------------> pour le soulignement en rouge --*/
 
 /* Travail Dan début*/
 
-
 .ourTeam {
   margin: auto;
   width: 960px;
@@ -249,6 +251,7 @@ footer h1, .ourTeam h1 {
 
 /* Début formulaire */
 
+
 input[type=text], select, textarea {
     width: 300px;
     padding: 12px;
@@ -266,6 +269,13 @@ input[type=text], select, textarea {
 
 #fname {
 	margin-right: 100px;
+}
+
+#eventTitle {
+	display: flex;
+	justify-content: space-around;
+	margin-left: 50px;
+	margin-right: 50px;
 }
 
 .form1 {
@@ -289,7 +299,7 @@ input[type=submit]:hover {
 }
 
 .formulaire {
-		width: auto;
+		width: 1000px;
 		margin: auto;
     padding: 20px;
 }
