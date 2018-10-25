@@ -18,10 +18,11 @@ a {
 	color: white;
 }
 header {
-	background: linear-gradient(rgba(0, 0, 0, 0.7),  rgba(0, 0, 0, 0.7)), url("../images/header_Background.jpg");
+	background: linear-gradient(rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8)), url("../images/header_Background.jpg");
 	background-size: cover;
 	height: 485px;
 	background-repeat: no-repeat;
+	background-size: cover;
 }
 header img {
 	display: block;
@@ -86,7 +87,7 @@ div p:nth-child(3) {
 div p:nth-child(4), div p:nth-child(5) {
 	font-family: verdana;
 }
-hr {
+hr { /* --------------------------> pour le soulignement en rouge --*/
 	color: #a20000;
 	height: 5px;
 	width:220px;
