@@ -21,6 +21,18 @@
 ## Ici, chaque participant explique ce qu'il a fait durant la session. Le chargé de communication fait la synthèse chaque jour pour envoi au client à 17h.
 
 
+
+### Jeudi 25/10
+
+**Roger:**
+
+**Ahmed:**
+
+**Dan:**  
+
+**Elias:**
+
+
 ### Mercredi 24/10
 
 **Roger:**
