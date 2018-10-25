@@ -15,7 +15,7 @@ After merging into dev, the different sections of the dev were not exactly rende
 * Some headings were not rendered right (size, font,..)
 * Whole sections were shifted to the left
 #### **Solution:**
-* Class names, hierarchy, inheritance,...: a detailed structure has to be decided before the team begins branching out. If some of it has to change, then every team member has to be notified and they will have to make sure their code is respectful of that change.
+* Class names, hierarchy, inheritance,...: a detailed skeleton has to be decided before the team begins branching out. If some of it has to change, then every team member has to be notified and they will have to make sure their code is respectful of that change.
 
 
 ### *Other problem(s):**
