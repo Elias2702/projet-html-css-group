@@ -47,6 +47,11 @@ p {
 	font-family: 'Comfortaa';
 }
 
+#partie-ahmed {
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
 #who-Best {
 
   z-index: 1;
@@ -80,7 +85,7 @@ p {
 /*------------*/
 
 #hrz-ln {
-	margin-right: 300px;
+	margin-right: 45%;
 	width: 150px;
 	height: 6px;
 	background-color:#b30000;
@@ -93,7 +98,8 @@ p {
 }
 
 #who-txt {
-
+	color :black;
+	font-weight: normal;
 
 }
 
@@ -164,11 +170,7 @@ hr { /* --------------------------> pour le soulignement en rouge --*/
 
 /* Travail Dan début*/
 
-main {
-  width: 80%;
-  margin-left:10%;
-  margin-right: 10%;
-}
+
 
 .ourTeam {
   margin: auto;
