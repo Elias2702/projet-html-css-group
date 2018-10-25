@@ -1,14 +1,181 @@
-/* Travail Dan début*/
+
+@font-face {
+    font-family: 'Comfortaa';
+    src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Cinzel';
+    src: url('fonts/Cinzel-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ------------------------------- fin font-faces -------------------- */
+a {
+	text-decoration: none;
+	color: white;
+}
 
 main {
-  width: 80%;
-  margin-left:10%;
-  margin-right: 10%;
+  width: 960;
+  margin: auto;
 }
+
+header {
+	background: linear-gradient(rgba(0, 0, 0, 0.8),  rgba(0, 0, 0, 0.8)), url("../images/header_Background.jpg");
+	background-size: cover;
+	height: 485px;
+	background-repeat: no-repeat;
+}
+
+header img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 135px;
+}
+header ul li {
+	color: white;
+	list-style-type: none;
+	margin-left: 40px;
+	margin-top: 15px;
+	font-family: 'Comfortaa';
+}
+header ul {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 130px;
+}
+p {
+	font-family: 'Comfortaa';
+}
+
+#who-Best {
+
+  z-index: 1;
+  position: absolute;
+  color: white;
+  padding: 7px;
+  background-color: #b30000;
+  font-size: 16px;
+  font-weight: bold;
+  left: -75px;
+  top: 30px;
+
+
+}
+
+#who-img{
+	  position: absolute;
+	  left: 0;
+	  top: 0;
+}
+
+#div-Best-img{
+
+	position: relative;
+	float: left;
+	height: 400px;
+  	width: 400px;
+
+}
+
+/*------------*/
+
+#hrz-ln {
+	margin-right: 300px;
+	width: 150px;
+	height: 6px;
+	background-color:#b30000;
+}
+
+#who-title {
+
+	padding:50px;
+
+}
+
+#who-txt {
+
+
+}
+
+#div-title-txt {
+
+ }
+
+/*-------------*/
+
+#container {
+
+}
+
+#alone{
+
+	display: inline-block;
+}
+
+#events_top {
+	display: flex;
+	justify-content: space-around;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+#events_bottom {
+	display: flex;
+	justify-content: space-between;
+	margin-left: 150px;
+	margin-right: 150px;
+	margin-top: 50px;
+}
+
+#events_bottom div {
+	width: 220px;
+	border: 1px solid grey;
+	box-shadow: 0px 5px 4px grey;
+	text-align: center;
+}
+#eventTitle {
+	font-family: 'Comfortaa';
+	font-size: 2.8em;
+	margin-bottom: 5px;
+}
+#fondRouge {
+	border: 1px solid #a20000;
+	background-color: #a20000;
+	color:white;
+	margin-top: 0px;
+	padding: 5px;
+}
+
+div p:nth-child(3) {
+	font-weight: bold;
+}
+div p:nth-child(4), div p:nth-child(5) {
+	font-family: verdana;
+}
+hr { /* --------------------------> pour le soulignement en rouge --*/
+	color: #a20000;
+	height: 5px;
+	width:220px;
+	background-color: #a20000;
+	border: 0px;
+}
+
+/* Travail Dan début*/
 
 .ourTeam {
   margin: auto;
   width: 960px;
+}
+
+.ourTeam h1::after {
+width : 80%;
+background-color: rgb(168, 0, 0);
+content: " ";
 }
 
 .topTeam, .bottomTeam {
@@ -38,7 +205,9 @@ footer {
   padding: 25px 0;
   background-image: url(../images/swirl_pattern.png);
   height: 200px;
+  width: 100%;
 }
+
 footer h1, .ourTeam h1 {
   text-transform: uppercase;
   text-align: center;
@@ -80,3 +249,55 @@ footer h1, .ourTeam h1 {
 }
 
 /* Travail Dan Fin*/
+
+/* Début formulaire */
+
+input[type=text], select, textarea {
+    width: 300px;
+    padding: 12px;
+    border: 1px solid rgba(155,0,0,1);
+    border-radius: 25px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+#subject {
+		width: 600px;
+}
+
+#fname {
+	margin-right: 100px;
+}
+
+.form1 {
+		display: flex;
+}
+
+input[type=submit] {
+		text-transform: uppercase;
+    color: rgba(155,0,0,1);
+		background-color: rgba(255,255,255,1);
+		margin-left: 200px;
+    padding: 12px;
+    border: 1px solid rgba(155,0,0,1);
+    border-radius: 7px;
+    width: 120px;
+}
+
+input[type=submit]:hover {
+		color: rgba(255,255,255,1);
+    background-color: rgba(155,0,0,1);
+}
+
+.formulaire {
+		width: auto;
+		margin: auto;
+    padding: 20px;
+}
+
+.imgstar {
+	height: 0.5em;
+}
+/* Fin formulaire */
