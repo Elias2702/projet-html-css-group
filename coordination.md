@@ -21,6 +21,25 @@
 ## Ici, chaque participant explique ce qu'il a fait durant la session. Le chargé de communication fait la synthèse chaque jour pour envoi au client à 17h.
 
 
+
+### Jeudi 25/10
+
+**Roger:**
+J'ai terminé ma section.
+
+**Ahmed:**
+J'ai terminé ma section.
+
+**Dan:**  
+J'ai terminé ma section.
+
+**Elias:**
+J'ai terminé ma section.
+
+**Tous:**
+Nous avons rassemblé nos différentes sections et travaillé sur l'agencement final.
+
+
 ### Mercredi 24/10
 
 **Roger:**
