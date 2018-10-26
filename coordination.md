@@ -20,6 +20,19 @@
 
 ## Ici, chaque participant explique ce qu'il a fait durant la session. Le chargé de communication fait la synthèse chaque jour pour envoi au client à 17h.
 
+### Day 26/10
+
+**Roger:**
+
+**Ahmed:**
+  Today, I have corrected a few minor inaccuracies in my part :
+    1. title (Who we are...) : corrected the font.
+    2. box(the best people agency in Belgium) :
+      i. restored the  border (it was lost in the merging process)
+      ii. repositioned the element more accurately.
+**Dan:**  
+
+**Elias:**
 
 
 ### Jeudi 25/10
