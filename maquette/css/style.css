@@ -301,9 +301,9 @@ input[type=submit]:hover {
 }
 
 .formulaire {
+    font-family: 'verdana';
 		width: 1000px;
 		margin: auto;
-    padding: 20px;
 }
 
 .imgstar {
