@@ -22,7 +22,6 @@ a {
 main {
 	width: 960px;
 	margin: auto ;
-	border: 1px solid red; /* pour faire des tests */
 }
 
 body {
