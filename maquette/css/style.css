@@ -1,5 +1,5 @@
 
-pxont-face {
+@font-face {
     font-family: 'Comfortaa';
     src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
     font-weight: normal;
@@ -13,16 +13,15 @@ pxont-face {
     font-style: normal;
 }
 
-/* ------------------------------- fin font-faces -------------------- */
-a {
-	text-decoration: none;
-	color: white;
-}
+/* ----- fin font-faces------------ */
 
 main {
 	width: 960px;
 	margin: auto ;
-	border: 1px solid red; /* pour faire des tests */
+}
+
+p {
+	font-family: 'Comfortaa';
 }
 
 header {
@@ -32,12 +31,21 @@ header {
 	background-repeat: no-repeat;
 	margin-top: 0px;
 }
+
 header img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 135px;
 }
+
+header ul {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 130px;
+	margin-top: 0px;
+}
+
 header ul li {
 	color: white;
 	list-style-type: none;
@@ -45,15 +53,71 @@ header ul li {
 	margin-top: 15px;
 	font-family: 'Comfortaa';
 }
-header ul {
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+#events_top {
 	display: flex;
-	justify-content: flex-end;
-	margin-right: 130px;
-	margin-top: 0px;
+	justify-content: space-between;
 }
-p {
+
+#eventTitle {
 	font-family: 'Comfortaa';
+	font-size: 2.8em;
+	margin-bottom: 5px;
 }
+
+hr { /*---------> pour le soulignement en rouge --*/
+	color: #a20000;
+	height: 5px;
+	width:220px;
+	background-color: #a20000;
+	border: 0px;
+}
+
+#events_bottom div {
+	width: 220px;
+	border: 1px solid grey;
+	box-shadow: 0px 5px 4px grey;
+	text-align: center;
+}
+
+#events_bottom {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 50px;
+}
+
+#fondRouge {
+	border: 1px solid #a20000;
+	background-color: #a20000;
+	color:white;
+	margin-top: 0px;
+	padding: 5px;
+}
+
+div p:nth-child(2) {
+	color: blue;
+	font-weight: bold;
+}
+div p:nth-child(3) {
+	font-weight: bold;
+}
+div p:nth-child(4), div p:nth-child(5) {
+	font-family: verdana;
+}
+
+
+/* --------Fin CSS roger ---------------------------------------- */
+
+/*  ----------------------------------------------------------
+		/!\ je mets le css des partenaires en commentaires 
+--------------------------------------------------------------*/
+
+/*
 
 #who-Best {
 
@@ -66,8 +130,6 @@ p {
   font-weight: bold;
   left: -75px;
   top: 30px;
-
-
 }
 
 #who-img{
@@ -82,10 +144,7 @@ p {
 	float: left;
 	height: 400px;
   	width: 400px;
-
 }
-
-/*------------*/
 
 #hrz-ln {
 	margin-right: 300px;
@@ -97,64 +156,13 @@ p {
 #who-title {
 
 	padding:50px;
-
 }
 
-
-
 #alone{
-
 	display: inline-block;
 }
 
-#events_top {
-	display: flex;
-	justify-content: space-between;
-}
-#events_bottom {
-	display: flex;
-	justify-content: space-around;
-	margin-top: 50px;
-}
-
-#events_bottom div {
-	width: 220px;
-	border: 1px solid grey;
-	box-shadow: 0px 5px 4px grey;
-	text-align: center;
-}
-#eventTitle {
-	font-family: 'Comfortaa';
-	font-size: 2.8em;
-	margin-bottom: 5px;
-}
-#fondRouge {
-	border: 1px solid #a20000;
-	background-color: #a20000;
-	color:white;
-	margin-top: 0px;
-	padding: 5px;
-}
-div p:nth-child(2) {
-	color: blue;
-	font-weight: bold;
-}
-div p:nth-child(3) {
-	font-weight: bold;
-}
-div p:nth-child(4), div p:nth-child(5) {
-	font-family: verdana;
-}
-hr { /* --------------------------> pour le soulignement en rouge --*/
-	color: #a20000;
-	height: 5px;
-	width:220px;
-	background-color: #a20000;
-	border: 0px;
-}
-
-/* Travail Dan début*/
-
+	-------- Travail Dan début--------
 
 .ourTeam {
   margin: auto;
@@ -173,7 +181,6 @@ hr { /* --------------------------> pour le soulignement en rouge --*/
 .teamText {
   width: 300px;
   color : gray;
-
 }
 
 .teamText h6 {
@@ -189,6 +196,7 @@ footer {
   background-image: url(../images/swirl_pattern.png);
   height: 200px;
 }
+
 footer h1, .ourTeam h1 {
   text-transform: uppercase;
   text-align: center;
