@@ -1,14 +1,14 @@
 
 @font-face {
     font-family: 'Comfortaa';
-    src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
+    src: url('fonts/Comfortaa-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     /* font-family: 'Cinzel'; */
-    src: url('fonts/Cinzel-Regular.ttf') format('truetype'),
+    src: url('fonts/Cinzel-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -69,7 +69,6 @@ p {
 }
 
 #who-Best {
-
   z-index: 1;
   position: absolute;
   color: white;
@@ -103,18 +102,16 @@ p {
 }
 
 #who-img{
-	  position: absolute;
-	  left: 0;
-	  top: 0;
+	position: absolute;
+	left: 0;
+	top: 0;
 }
 
 #div-Best-img{
-
 	position: relative;
 	float: left;
 	height: 400px;
-  	width: 400px;
-
+  width: 400px;
 }
 
 /*------------*/
@@ -127,11 +124,11 @@ p {
 }
 
 #who-title {
-	  font-family: 'Comfortaa';
-    src: url('fonts/Comfortaa-Regular.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-	  padding:50px;
+	font-family: 'Comfortaa';
+  src: url('fonts/Comfortaa-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+	padding:50px;
 }
 
 #who-txt {
@@ -179,11 +176,6 @@ p {
 	padding: 5px;
 }
 
-div p:nth-child(2) {
-	color: blue;
-	font-weight: bold;
-}
-
 div p:nth-child(3) {
 	font-weight: bold;
 }
@@ -203,37 +195,46 @@ hr { /* --------------------------> pour le soulignement en rouge --*/
 /* Travail Dan début*/
 
 .ourTeam {
-  margin: auto;
+  margin: 150px auto;
   width: 960px;
 }
 
-.ourTeam h1::after {
-	width : 80%;
-	background-color: rgb(168, 0, 0);
-	content: " ";
+.ourTeam h1 {
+  margin-bottom: 0px;
 }
 
 .topTeam, .bottomTeam {
-  width: 860px;
+  width: 890px;
   margin: auto;
 }
 
+.topTeam {
+  margin-top: 50px;
+}
+
 .topTeam img, .teamText {
-  display : inline-block;
+  display: inline-block;
 }
 
 .teamText {
-  width: 300px;
-  color : gray;
-
+  width: 310px;
+  color: gray;
+  vertical-align: top;
 }
 
-.teamText h6 {
+.teamText h5 {
   background-color: rgb(168, 0, 0);
-  width : 40px;
-  padding: 5px 20px 5px 10px;
+  width: 32px;
   color: white;
+  padding: 2px 20px 0px 10px;
   font-family: cinzel, serif;
+  margin-bottom: 0px;
+}
+
+.teamText p {
+  font-size: 12px;
+  line-height: 16px;
+
 }
 
 footer {
@@ -244,11 +245,14 @@ footer {
 }
 
 footer h1, .ourTeam h1 {
-  text-transform: uppercase;
   text-align: center;
   font-size: 40px;
   font-weight: 400;
   font-family: Comfortaa, serif;
+}
+
+footer h1 {
+  text-transform: uppercase;
 }
 
 .footerIcons {
