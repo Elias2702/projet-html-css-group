@@ -293,7 +293,8 @@ footer h1 {
 
 
 input[type=text], select, textarea {
-    width: 300px;
+    width: 270px;
+    height: 25px;
     padding: 12px;
     border: 1px solid rgba(155,0,0,1);
     border-radius: 25px;
@@ -304,29 +305,32 @@ input[type=text], select, textarea {
 }
 
 #subject {
-		width: 600px;
+		width: 450px;
 }
 
 #fname {
 	margin-right: 100px;
 }
 
-#eventTitle {
+#eventTitle { /* ---------------> calibration finale du titre --*/
 	display: flex;
-	justify-content: space-around;
 	margin-left: 50px;
 	margin-right: 50px;
 }
 
-.form1 {
-		display: flex;
+hr { /* ---------------> soulignement en rouge à calibrer pour formulaire --*/
+  color: #a20000;
+	height: 5px;
+	width:220px;
+	background-color: #a20000;
+	border: 0px;
 }
 
-input[type=submit] {
+input[type=submit] { /* ---------------> calibration finale du boutton --*/
 		text-transform: uppercase;
     color: rgba(155,0,0,1);
 		background-color: rgba(255,255,255,1);
-		margin-left: 200px;
+		margin-left: 185px;
     padding: 12px;
     border: 1px solid rgba(155,0,0,1);
     border-radius: 7px;
@@ -338,10 +342,21 @@ input[type=submit]:hover {
     background-color: rgba(155,0,0,1);
 }
 
-.formulaire {
+.form1 { /* ---------------> à garder pour le grand final --*/
+  display: flex;
+}
+
+.formulaire { /* ---------------> à garder pour le grand final --*/
+    display: flex;
+    justify-content: center;
     font-family: 'verdana';
 		width: 1000px;
 		margin: auto;
+    padding-bottom: 60px;
+}
+
+.formulaire p { /* ---------------> à garder pour le grand final --*/
+    font-family: 'verdana';
 }
 
 .imgstar {
