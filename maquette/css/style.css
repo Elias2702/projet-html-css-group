@@ -98,11 +98,13 @@ p {
     font-weight: normal;
     font-style: normal;
 	padding:50px;
+
 }
 
 #who-txt {
 	color :black;
 	font-weight: normal;
+	text-align: justify;
 
 }
 
@@ -117,7 +119,7 @@ p {
 }
 
 #alone{
-
+	text-align: justify;
 	display: inline-block;
 }
 
