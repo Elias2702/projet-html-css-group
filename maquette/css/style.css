@@ -14,6 +14,10 @@
 }
 
 /* ------------------------------- fin font-faces -------------------- */
+body {
+  margin: 0px;
+}
+
 header img {
 	display: block;
 	margin-left: auto;
@@ -51,6 +55,10 @@ a {
 #events_top {
 	display: flex;
 	justify-content: space-around;
+}
+
+#events_top div {
+  width: 260px;
 }
 
 #eventTitle {
@@ -111,7 +119,7 @@ main {
 /*body { -------- supprimer ??
   width: 960;
   margin: auto;
-}*/ 
+}*/
 
 p {
 	font-family: 'Comfortaa';
@@ -184,10 +192,10 @@ p {
 	display: inline-block;
 }
 
-#events_top {
+/*#events_top {
 	display: flex;
 	justify-content: space-between;
-}
+}*/
 #events_bottom {
 	display: flex;
 	justify-content: space-around;
@@ -323,7 +331,8 @@ input[type=text], select, textarea {
 hr { /* ---------------> soulignement en rouge à calibrer pour formulaire --*/
   color: #a20000;
 	height: 5px;
-	width:220px;
+	width: 335px;
+  margin-right: 570px;
 	background-color: #a20000;
 	border: 0px;
 }
@@ -348,12 +357,17 @@ input[type=submit]:hover {
   display: flex;
 }
 
+.formulairetitre {
+  margin-top: 150px;
+}
+
 .formulaire { /* ---------------> à garder pour le grand final --*/
     display: flex;
     justify-content: center;
     font-family: 'verdana';
 		width: 1000px;
 		margin: auto;
+    padding-top: 65px;
     padding-bottom: 60px;
 }
 
