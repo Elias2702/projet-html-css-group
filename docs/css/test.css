@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'Comfortaa Regular';
+    src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+}
+
+header {
+	background: linear-gradient(rgba(0, 0, 0, 0.9),  rgba(0, 0, 0, 0.9)), url("../images/header_Background.jpg");
+	background-size: cover;
+	height: 485px;
+}
+header img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 165px;
+}
+header ul li {
+	color: white;
+	list-style-type: none;
+	margin-left: 40px;
+	margin-top: 15px;
+}
+header ul {
+	display: flex;
+	justify-content: flex-end;
+	margin-right: 130px;
+}
+p {
+	font-family: 'Comfortaa regular';
+}
