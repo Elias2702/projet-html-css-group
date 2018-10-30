@@ -122,8 +122,8 @@ p {
 }
 
 #partie-ahmed {
-	margin-left: 20%;
-	margin-right: 20%;
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
 #who-Best {
@@ -141,7 +141,8 @@ p {
 }
 
 #alone {
-	display: inline-block;
+	 display: inline-block;
+	 margin-left: 11%;
 }
 
 #who-img{
@@ -153,39 +154,45 @@ p {
 #div-Best-img{
 	position: relative;
 	float: left;
+	left: 20px;
+	margin-left: 11%;
 	height: 400px;
-  width: 400px;
+    width: 400px;
 }
 
-/*------------*/
 
 #hrz-ln {
 	margin-right: 45%;
-	width: 150px;
+	width: 202px;
 	height: 6px;
 	background-color:#b30000;
 }
 
 #who-title {
-	font-family: 'Comfortaa';
-  src: url('fonts/Comfortaa-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-	padding:50px;
+
+	font-size: 34px;
+	  font-family: 'Comfortaa';
+    src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
+	padding:43px;
 }
 
 #who-txt {
+	opacity: 0.5;
+	margin: 10 auto;
 	color :black;
 	font-weight: normal;
 	text-align: justify;
+	margin-left: 15%;
+    margin-right: 15%;
 }
 
-
-/*-------------*/
-
 #alone{
+	opacity: 0.5;
 	text-align: justify;
 	display: inline-block;
+	margin-right: 14%;
 }
 
 /*#events_top {
