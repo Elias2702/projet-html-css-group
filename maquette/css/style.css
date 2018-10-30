@@ -162,7 +162,7 @@ p {
 
 #hrz-ln {
 	margin-right: 45%;
-	width: 150px;
+	width: 202px;
 	height: 6px;
 	background-color:#b30000;
 }
@@ -183,6 +183,8 @@ p {
 	color :black;
 	font-weight: normal;
 	text-align: justify;
+	margin-left: 15%;
+    margin-right: 15%;
 }
 
 
@@ -192,6 +194,7 @@ p {
 	opacity: 0.5;
 	text-align: justify;
 	display: inline-block;
+	margin-right: 14%;
 }
 
 /*#events_top {
