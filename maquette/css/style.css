@@ -122,8 +122,10 @@ p {
 }
 
 #partie-ahmed {
-	margin-left: 20%;
-	margin-right: 20%;
+	/*margin: 150px auto;
+  	width: 960px;*/
+	margin-left: 15%;
+	margin-right: 15%;
 }
 
 #who-Best {
@@ -141,7 +143,8 @@ p {
 }
 
 #alone {
-	display: inline-block;
+	    display: inline-block;
+	    margin-left: 11%;
 }
 
 #who-img{
@@ -154,8 +157,9 @@ p {
 	position: relative;
 	float: left;
 	left: 20px;
+	margin-left: 11%;
 	height: 400px;
-  width: 400px;
+    width: 400px;
 }
 
 /*------------*/
@@ -174,7 +178,7 @@ p {
     src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
-	padding:50px;
+	padding:43px;
 }
 
 #who-txt {
