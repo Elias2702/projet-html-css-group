@@ -20,6 +20,49 @@
 
 ## Ici, chaque participant explique ce qu'il a fait durant la session. Le chargé de communication fait la synthèse chaque jour pour envoi au client à 17h.
 
+### Day 29/10
+
+**Roger:**
+
+**Ahmed:**
+    1.Font Size correction.
+    2. text color correction.
+**Dan:**  
+
+**Elias:**
+
+### Day 26/10
+
+**Roger:**
+
+**Ahmed:**
+  Today, I have corrected a few minor inaccuracies in my part :
+    1. title (Who we are...) : corrected the font.
+    2. box(the best people agency in Belgium) :
+      i. restored the  border (it was lost in the merging process)
+      ii. repositioned the element more accurately.
+**Dan:**  
+
+**Elias:**
+
+
+### Jeudi 25/10
+
+**Roger:**
+J'ai terminé ma section.
+
+**Ahmed:**
+J'ai terminé ma section.
+
+**Dan:**  
+J'ai terminé ma section.
+
+**Elias:**
+J'ai terminé ma section.
+
+**Tous:**
+Nous avons rassemblé nos différentes sections et travaillé sur l'agencement final.
+
 
 ### Mercredi 24/10
 
