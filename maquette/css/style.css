@@ -122,8 +122,6 @@ p {
 }
 
 #partie-ahmed {
-	/*margin: 150px auto;
-  	width: 960px;*/
 	margin-left: 15%;
 	margin-right: 15%;
 }
@@ -143,8 +141,8 @@ p {
 }
 
 #alone {
-	    display: inline-block;
-	    margin-left: 11%;
+	 display: inline-block;
+	 margin-left: 11%;
 }
 
 #who-img{
@@ -162,7 +160,6 @@ p {
     width: 400px;
 }
 
-/*------------*/
 
 #hrz-ln {
 	margin-right: 45%;
@@ -190,9 +187,6 @@ p {
 	margin-left: 15%;
     margin-right: 15%;
 }
-
-
-/*-------------*/
 
 #alone{
 	opacity: 0.5;
