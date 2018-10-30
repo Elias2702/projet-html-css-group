@@ -110,6 +110,7 @@ p {
 #div-Best-img{
 	position: relative;
 	float: left;
+	left: 20px;
 	height: 400px;
   width: 400px;
 }
@@ -124,14 +125,18 @@ p {
 }
 
 #who-title {
-	font-family: 'Comfortaa';
-  src: url('fonts/Comfortaa-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
+
+	font-size: 34px;
+	  font-family: 'Comfortaa';
+    src: url('fonts/Comfortaa-Regular.ttf') format('truetype'),
+    font-weight: normal;
+    font-style: normal;
 	padding:50px;
 }
 
 #who-txt {
+	opacity: 0.5;
+	margin: 10 auto;
 	color :black;
 	font-weight: normal;
 	text-align: justify;
@@ -141,6 +146,7 @@ p {
 /*-------------*/
 
 #alone{
+	opacity: 0.5;
 	text-align: justify;
 	display: inline-block;
 }
