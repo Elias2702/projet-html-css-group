@@ -20,6 +20,17 @@
 
 ## Ici, chaque participant explique ce qu'il a fait durant la session. Le chargé de communication fait la synthèse chaque jour pour envoi au client à 17h.
 
+### Day 29/10
+
+**Roger:**
+
+**Ahmed:**
+    1.Font Size correction.
+    2. text color correction.
+**Dan:**  
+
+**Elias:**
+
 ### Day 26/10
 
 **Roger:**
