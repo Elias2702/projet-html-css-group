@@ -1,7 +1,9 @@
 # coordination
 
+Lien vers le projet final sur GitHub Page: https://elias2702.github.io/projet-html-css-group/
 
-## Ici, on détaille la répartition des tâches.
+
+## Répartition des tâches.
 
 ### Roger:
 * Header
@@ -16,24 +18,26 @@
 
 ### Elias:
 * Formulaire
+* Git conflicts
 
 
-## Ici, chaque participant explique ce qu'il a fait durant la session. Le chargé de communication fait la synthèse chaque jour pour envoi au client à 17h.
+## Log développement quotidien.
 
-### Day 29/10
+### Mardi 30/10
 
-**Roger:**
+**Tous:**
+Calibrations finales. Mise en ligne d'une GitHub Page.
+
+### Lundi 29/10
 
 **Ahmed:**
-    1.Font Size correction.
-    2. text color correction.
-**Dan:**  
+    1. Font Size correction.
+    2. Text color correction.
+ 
+ **Autres:**
+ Petites calibrations et merging
 
-**Elias:**
-
-### Day 26/10
-
-**Roger:**
+### Vendredi 26/10
 
 **Ahmed:**
   Today, I have corrected a few minor inaccuracies in my part :
@@ -41,10 +45,9 @@
     2. box(the best people agency in Belgium) :
       i. restored the  border (it was lost in the merging process)
       ii. repositioned the element more accurately.
-**Dan:**  
 
-**Elias:**
-
+ **Autres:**
+ Petites calibrations et merging
 
 ### Jeudi 25/10
 
@@ -95,14 +98,3 @@ J'ai débuté le footer, j'ai placé l'image d'arrière plan, le titre ainsi que
 **Elias:**
 J'ai mis en place les outils collaboratifs (repo, fichiers readme et collaborations, importé les ressources depuis Hamilton -et leurs mises à jour régulières-, ryver) et aidé à ce que tout le monde puisse commencer proprement.
 J'ai ensuite cherché à me renseigner sur ma partie désignée du travail (le formulaire), j'ai trouvé des templates et lu de la documentation sur le sujet. J'ai copié un template simple HTML et CSS, que j'ai commencé à éditer.
-
-
-### Day --/--
-
-**Roger:**
-
-**Ahmed:**
-
-**Dan:**  
-
-**Elias:**
